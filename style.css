@@ -1,17 +1,8 @@
-body{
-	font-family: Open Sans,Arial;
-	font-size: 16px;
-	line-height: 1.4;
-	text-alig: justify;
-	margin: 2em auto;
-	padding: 1em;
-	
-}
-span.wr{
-	color: #c0392b;
-	font-weight: 600;
-	text-decoration: underline;
-}
-html{
-	background-color: #fefefe
+body {
+	margin: 40px auto;
+	max-width: 650px;
+	line-height: 1.6;
+	font-size: 18px;
+	color: #444;
+	padding: 0 10px;
 }
